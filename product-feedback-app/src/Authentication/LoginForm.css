@@ -1,0 +1,14 @@
+.inputField {
+    width: 105%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding-block: 1px;
+    padding-inline: 2px;
+    height: 35px;
+  }
+
+  .loginForm{
+    margin-top: 15%;
+  }
